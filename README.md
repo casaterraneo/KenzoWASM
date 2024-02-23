@@ -1,2 +1,2 @@
 # KenzoWASM
-deploy
+deploy try
